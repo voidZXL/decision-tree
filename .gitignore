@@ -1,0 +1,13 @@
+/.idea
+*/__pycache__
+__pycache__/
+*.py[cod]
+.coverage
+.obsidian
+*/.coverage
+*/.obsidian
+
+*.sqlite3
+*/restats
+# .ext/ is used to store per-developer files that helps development
+/.pytest_cache
